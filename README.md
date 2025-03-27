@@ -58,3 +58,4 @@ By using this software, you automatically agree to the above.
   3. after building you will find exe file in `stub/build.exe` folder
   4. Run `build.exe` make sure `dotnetzip.dll` and build.exe are in same path
   5. All stealed files will be uploaded to your telegram-bot as zip file
+Fresh updated to 03.2025
